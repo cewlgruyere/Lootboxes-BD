@@ -13,7 +13,7 @@ This is a BallsDex extension originally designed for the ReMicroDex april fools 
 1. Put this into `config/extra.toml`
    ```toml
    [[ballsdex.packages]]
-   location = "git+https://github.com/cewlgruyere/Lootboxes-BD"
+   location = "git+https://github.com/cewlgruyere/Lootboxes-BD.git"
    path = "lootboxes"
    enabled = true
    ```
