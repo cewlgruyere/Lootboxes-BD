@@ -1,0 +1,14 @@
+[project]
+name = "lootboxes"
+version = "1.0.0"
+
+
+description = "Lootboxes for BallsDex V3. Might be buggy"
+license = "MIT"
+license-files = ["LICENSE"]
+
+authors = [ { name = "cewlgruyere", email = "gruyere@remicrodex.com"} ]
+readme = "README.md"
+
+[project.urls]
+Homepage="https://github.com/dormieriancitizen/bd-labelmaker"
